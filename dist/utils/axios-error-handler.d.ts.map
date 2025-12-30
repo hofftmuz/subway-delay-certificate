@@ -1,0 +1,1 @@
+{"version":3,"file":"axios-error-handler.d.ts","sourceRoot":"","sources":["../../src/utils/axios-error-handler.ts"],"names":[],"mappings":"AAAA;;;;;GAKG;AAEH,OAAO,EAAE,UAAU,EAAE,MAAM,OAAO,CAAC;AAGnC;;;;;GAKG;AACH,wBAAgB,YAAY,CAAC,KAAK,EAAE,OAAO,GAAG,KAAK,IAAI,UAAU,CAOhE;AAED;;;;;;;;;;GAUG;AACH,wBAAgB,gBAAgB,CAAC,KAAK,EAAE,UAAU,EAAE,OAAO,CAAC,EAAE,MAAM,GAAG,KAAK,CAgC3E"}
